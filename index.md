@@ -1,12 +1,12 @@
 <h1>
-Counting until my birthday (11 January 2022)
+Counting until my birthday (11 January 2023)
     <h1>
         <!-- Display the countdown timer in an element -->
 <p id="demo"></p>
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jan 11, 2022 00:00:00").getTime();
+var countDownDate = new Date("Jan 11, 2023 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
